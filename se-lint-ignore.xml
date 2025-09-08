@@ -24,6 +24,12 @@
 			<reason>Part of cryptographic code.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-2-14.xhtml">
+		<ignore>
+			<code>y-034</code>
+			<reason>Part of cryptographic code.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-2-19.xhtml">
 		<ignore>
 			<code>s-079</code>
