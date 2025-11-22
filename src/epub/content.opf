@@ -29,8 +29,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Giant Raft</dc:title>
 		<meta property="file-as" refines="#title">The Giant Raft</meta>
-		<meta property="dcterms:alternate" refines="#title">Eight Hundred Leagues on the Amazon</meta>
-		<meta property="dcterms:alternate" refines="#title">800 Leagues on the Amazon</meta>
+		<meta property="dcterms:alternative" refines="#title">Eight Hundred Leagues on the Amazon</meta>
+		<meta property="dcterms:alternative" refines="#title">800 Leagues on the Amazon</meta>
 		<dc:subject id="subject-1">Adventure and adventurers -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Voyages and travels -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Brazil -- Social life and customs -- Fiction</dc:subject>
