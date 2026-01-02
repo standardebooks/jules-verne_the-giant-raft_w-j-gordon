@@ -55,7 +55,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">21</meta>
-		<dc:description id="description">An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.</dc:description>
+		<dc:description id="description">A former slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;An ex-slave trader named Torres comes across a secret encrypted note and schemes to figure out what it means. Meanwhile, Joam Garral, who runs a farm in Peru near the source of the Amazon river and is an outlaw from Brazil, accedes to his daughter’s wishes to get married to her love at the mouth of the Amazon. They decide to travel down the Amazon with the entire family and servants in a giant raft, encountering many adventures on the way.&lt;/p&gt;
 			&lt;p&gt;21st in the &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;Voyages Extraordinaires&lt;/a&gt; series, &lt;i&gt;The Giant Raft&lt;/i&gt; combines thrilling adventure, humor, and an intriguing mystery with an almost encyclopedic depiction of the mid-19th century flora and fauna of the majestic river.&lt;/p&gt;
