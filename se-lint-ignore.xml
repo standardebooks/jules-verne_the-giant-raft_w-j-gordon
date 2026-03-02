@@ -1,38 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-1-1.xhtml">
-		<ignore>
-			<code>y-035</code>
+		<ignore code="y-035">
 			<reason>Matched text is a code.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-6.xhtml">
-		<ignore>
-			<code>y-022</code>
+		<ignore code="y-022">
 			<reason>Typography matches scans.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-12.xhtml">
-		<ignore>
-			<code>y-035</code>
+		<ignore code="y-035">
 			<reason>Matched text is a cipher.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-13.xhtml">
-		<ignore>
-			<code>t-029</code>
+		<ignore code="t-029">
 			<reason>Part of cryptographic code.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-14.xhtml">
-		<ignore>
-			<code>y-034</code>
+		<ignore code="y-034">
 			<reason>Part of cryptographic code.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-19.xhtml">
-		<ignore>
-			<code>s-079</code>
+		<ignore code="s-079">
 			<reason>Empty cells stand for spaces in cryptographic code.</reason>
 		</ignore>
 	</file>
