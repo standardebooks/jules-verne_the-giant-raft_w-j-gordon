@@ -2,26 +2,32 @@
 <se-lint-ignore>
 	<file path="chapter-1-1.xhtml">
 		<ignore code="y-035">
+			<line>15</line>
 			<reason>Matched text is a code.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-6.xhtml">
 		<ignore code="y-022">
+			<line>123</line>
 			<reason>Typography matches scans.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-12.xhtml">
 		<ignore code="y-035">
+			<line>43</line>
 			<reason>Matched text is a cipher.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-13.xhtml">
 		<ignore code="t-029">
+			<line>463</line>
 			<reason>Part of cryptographic code.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-14.xhtml">
 		<ignore code="y-034">
+			<line>101</line>
+			<line>136</line>
 			<reason>Part of cryptographic code.</reason>
 		</ignore>
 	</file>
