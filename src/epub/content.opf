@@ -86,6 +86,7 @@
 		<meta property="file-as" refines="#artist">Catlin, George</meta>
 		<link href="https://en.wikipedia.org/wiki/George_Catlin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50035819.html" refines="#artist" rel="schema:sameAs"/>
+		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Norman Wolcott</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
