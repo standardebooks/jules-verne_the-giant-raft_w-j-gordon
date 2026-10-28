@@ -79,7 +79,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">W. J. Gordon</dc:contributor>
 		<meta property="file-as" refines="#translator">Gordon, W. J.</meta>
-		<meta property="schema:alternateName" refines="#author">William John Gordon</meta>
+		<meta property="schema:alternateName" refines="#translator">William John Gordon</meta>
 		<link href="https://id.loc.gov/authorities/names/n91012133.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">George Catlin</dc:contributor>
